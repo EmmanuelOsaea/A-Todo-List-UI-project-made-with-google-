@@ -40,3 +40,22 @@ class Item {
     }
     ...
 }
+
+class Item {
+    ...
+    edit(input){
+        input.disabled = !input.disabled;
+    }
+
+    remove(itemBox) {
+        container.removeChild(itemBox)
+    }
+}
+
+addButton.addEventListener('click', () => {
+    if (inputValue.value != "") {
+        new Item(inputValue.value);
+        inputValue.value = "";
+    }
+});
+
