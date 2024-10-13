@@ -23,7 +23,7 @@ h1 {
     height: 50px;
     outline: none;
     border: none;
-    background-color: white;
+    background-color: beige;
     width: 450px;
     font-size: 1.15rem;
     margin: 0.25rem;
@@ -37,14 +37,14 @@ h1 {
     outline: none;
     border:none;
     background-color: black;
-    color: white;
+    color: beige;
     font-size: 1.5rem;
     margin: 0.25rem;
     cursor: pointer;
 }
 
 .addButton:hover{
-    background-color: cornflowerblue;
+    background-color: sacramento;
 }
 
 .item{
@@ -92,13 +92,13 @@ h1 {
     margin: 0 0.75rem;
     background: none;
     outline: none;
-    color: white;
+    color: beige;
     border: none;
     cursor: pointer;
 }
 
 .editButton:hover, 
 .removeButton:hover{
-    color: cornflowerblue;
+    color: sacramento;
     font-size: 1.5rem;
 }
