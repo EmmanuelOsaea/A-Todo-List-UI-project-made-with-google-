@@ -15,6 +15,10 @@ h1 {
     font-weight: bold;
     text-align: center;
     color: black;
+    font-family: 'Protest Strike', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
 }
 
 .input_div {
