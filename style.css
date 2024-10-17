@@ -65,6 +65,14 @@ h1 {
     border-bottom: 4px solid black;
 }
 
+#activities ul{
+list-style: none;
+}
+
+#activities li{
+  display: inline;
+}
+
 .activities_input{
     background:none;
     outline:none;
