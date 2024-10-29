@@ -21,8 +21,8 @@ h1 {
     font-family: 'Protest Strike', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.sangria red {
-  color: sangria red;
+#sangria red {
+  color: #A22600;
 }
   
 
