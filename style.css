@@ -21,10 +21,14 @@ h1 {
     font-family: 'Protest Strike', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#sangria red {
-  color: #A22600;
+h1 span {
+    font-size: 3.5rem;
+    font-weight: bold;
+    text-align: center;
+     color: #A22600;
+    font-family: 'Protest Strike', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: cursive;  
 }
-  
 
 .input_div {
     display: flex;
