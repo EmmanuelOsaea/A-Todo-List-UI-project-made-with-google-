@@ -72,8 +72,9 @@ h1 span {
 }
 
 #activities li{
-  display: inline;
+  display: flex;
 margin-right: 10px;
+align-items: center;
 }
 
 .activities_input{
