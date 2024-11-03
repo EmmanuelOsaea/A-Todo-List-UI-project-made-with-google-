@@ -77,7 +77,7 @@ list-style: none;
 }
 
 #activities li{
-  display: inline;
+  display: inline-block;
 }
 
 .activities_input{
@@ -98,11 +98,7 @@ list-style: none;
     margin-top: 2rem;
 }
 
-.activities{
-    padding: 0.5rem;
-    margin-bottom: 1.5rem;
-    border-bottom: 4px solid black;
-  }
+
 
 .editButton, 
 .removeButton{
