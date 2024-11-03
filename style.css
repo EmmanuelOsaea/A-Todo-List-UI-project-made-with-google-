@@ -68,10 +68,7 @@ h1 span {
 #activities{
     padding: 0.5rem;
     list-style-type: none;
-}
-
-#activities ul{
-list-style-: none;
+       display: flex;
 }
 
 #activities li{
