@@ -67,17 +67,16 @@ h1 span {
 
 #activities{
     padding: 0.5rem;
-    margin-bottom: 1.5rem;
-    border-bottom: 4px solid black;
-    float: left;
+    list-style-type: none;
 }
 
 #activities ul{
-list-style: none;
+list-style-: none;
 }
 
 #activities li{
-  display: inline-block;
+  display: inline;
+margin-right: 10px;
 }
 
 .activities_input{
