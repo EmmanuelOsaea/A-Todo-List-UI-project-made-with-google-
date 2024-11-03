@@ -77,7 +77,7 @@ list-style: none;
 }
 
 #activities li{
-  display: inline;
+  display: inline-block;
 }
 
 .activities_input{
